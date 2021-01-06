@@ -31,10 +31,12 @@
 	<key>CFBundleName</key>
 	<string>HelloCamera5</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.httc.inspection</string>
+	<string>com.httc.karenTest</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1</string>
+	<key>UIRequiresFullScreen</key>
+	<true/>
 </dict>
 </plist>
