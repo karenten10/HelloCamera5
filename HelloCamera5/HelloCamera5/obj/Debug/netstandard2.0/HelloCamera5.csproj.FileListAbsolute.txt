@@ -1,0 +1,13 @@
+D:\practice\xamarin\HelloCamera5\HelloCamera5\HelloCamera5\bin\Debug\netstandard2.0\HelloCamera5.deps.json
+D:\practice\xamarin\HelloCamera5\HelloCamera5\HelloCamera5\bin\Debug\netstandard2.0\HelloCamera5.dll
+D:\practice\xamarin\HelloCamera5\HelloCamera5\HelloCamera5\bin\Debug\netstandard2.0\HelloCamera5.pdb
+D:\practice\xamarin\HelloCamera5\HelloCamera5\HelloCamera5\obj\Debug\netstandard2.0\HelloCamera5.csprojAssemblyReference.cache
+D:\practice\xamarin\HelloCamera5\HelloCamera5\HelloCamera5\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\practice\xamarin\HelloCamera5\HelloCamera5\HelloCamera5\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\practice\xamarin\HelloCamera5\HelloCamera5\HelloCamera5\obj\Debug\netstandard2.0\HelloCamera5.AssemblyInfoInputs.cache
+D:\practice\xamarin\HelloCamera5\HelloCamera5\HelloCamera5\obj\Debug\netstandard2.0\HelloCamera5.AssemblyInfo.cs
+D:\practice\xamarin\HelloCamera5\HelloCamera5\HelloCamera5\obj\Debug\netstandard2.0\HelloCamera5.csproj.CoreCompileInputs.cache
+D:\practice\xamarin\HelloCamera5\HelloCamera5\HelloCamera5\obj\Debug\netstandard2.0\HelloCamera5.csproj.Fody.CopyLocal.cache
+D:\practice\xamarin\HelloCamera5\HelloCamera5\HelloCamera5\obj\Debug\netstandard2.0\XamlC.stamp
+D:\practice\xamarin\HelloCamera5\HelloCamera5\HelloCamera5\obj\Debug\netstandard2.0\HelloCamera5.dll
+D:\practice\xamarin\HelloCamera5\HelloCamera5\HelloCamera5\obj\Debug\netstandard2.0\HelloCamera5.pdb
