@@ -18,7 +18,7 @@ namespace HelloCamera5.ViewModels
 
         private readonly INavigationService navigationService;
 
-        public string DisplayString { get; set; }
+        public string DisplayString { get; set; } = "Hi";
 
         public DelegateCommand ClickButton { get; set; }
 

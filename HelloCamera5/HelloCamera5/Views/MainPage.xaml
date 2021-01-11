@@ -5,8 +5,8 @@
              Title="{Binding Title}">
 
     <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
-        <Label Text="{Binding DisplayString}" />
-        <Button Text="test" Command="{Binding ClickButton}"></Button>
+        <Label Text="{Binding DisplayString}" BackgroundColor="Yellow" TextColor="black"/>
+        <Button Text="test" Command="{Binding ClickButton}" BackgroundColor="Blue"></Button>
     </StackLayout>
 
 </ContentPage>
